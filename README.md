@@ -11,4 +11,4 @@ fetch:it gets all the change history of a tracked branch/repo.
 merge:it combines the current branch with a specified branch.
 repositers:means a place ,room,where something is deposited or stored.
 for creating a new repositery in github you can use git init command.
-day2
+
